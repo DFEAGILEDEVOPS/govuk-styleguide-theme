@@ -90,10 +90,8 @@
   display: block;
   list-style: outside none none;
   margin-bottom: 15px;
-  list-style: outside none none;
   background-color: #FFF;
   border: 1px solid #D8D8D8;
-  border-radius: 3px;
 }
 
 .hgt-sticky {
@@ -208,7 +206,6 @@
   font-size: 13.6px; /* 85% of 16px */
   line-height: 1.45;
   background-color: #F7F7F7;
-  border-radius: 3px;
 }
 
 .hgt-content pre {
@@ -222,7 +219,6 @@
 .hgt-content .codeExample,
 .hgt-content .jsExample {
   border: 1px solid #EEE;
-  border-radius: 4px;
   margin: 10px 0;
 }
 
@@ -235,7 +231,6 @@
   font-family: "Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;
   color: #222;
   border: 1px solid #EEE;
-  border-radius: 4px;
   border-bottom-left-radius: 0;
   border-top-right-radius: 0;
   position: relative;
