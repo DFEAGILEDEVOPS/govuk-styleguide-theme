@@ -160,13 +160,6 @@
   margin: 0 0 16px;
 }
 
-.hgt-content ul {
-  list-style: disc;
-  box-sizing: border-box;
-  margin: 0 0 16px;
-  padding-left: 1em;
-}
-
 .hgt-content ol {
   list-style: decimal;
   box-sizing: border-box;
