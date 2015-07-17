@@ -107,12 +107,12 @@
   word-wrap: break-word;
 }
 
-.hgt-content h1,
-.hgt-content h2,
-.hgt-content h3,
-.hgt-content h4,
-.hgt-content h5,
-.hgt-content h6 {
+.hgt-content h1.styleguide,
+.hgt-content h2.styleguide,
+.hgt-content h3.styleguide,
+.hgt-content h4.styleguide,
+.hgt-content h5.styleguide,
+.hgt-content h6.styleguide {
   box-sizing: border-box;
   position: relative;
   margin-bottom: 1rem;
@@ -120,33 +120,33 @@
   line-height: 1.4;
 }
 
-.hgt-content h1 {
+.hgt-content h1.styleguide {
   font-size: 2.25em;
   line-height: 1.2;
   border-bottom: 3px solid #EEE;
 }
 
-.hgt-content h2 {
+.hgt-content h2.styleguide {
   padding-bottom: 0.3em;
   font-size: 1.75em;
   line-height: 1.225;
   border-bottom: 1px solid #EEE;
 }
 
-.hgt-content h3 {
+.hgt-content h3.styleguide {
   font-size: 1.5em;
   line-height: 1.43;
 }
 
-.hgt-content h4 {
+.hgt-content h4.styleguide {
   font-size: 1.25em;
 }
 
-.hgt-content h5 {
+.hgt-content h5.styleguide {
   font-size: 1em;
 }
 
-.hgt-content h6 {
+.hgt-content h6.styleguide {
   font-size: 1em;
   color: #777;
 }
